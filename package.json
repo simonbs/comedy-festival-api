@@ -1,0 +1,21 @@
+{
+  "name": "comedy-festival-api",
+  "version": "1.0.0",
+  "description": "Scrapes shows for the Comedy Festival",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "8.1.2"
+  },
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-json-error": "^3.1.2",
+    "koa-router": "^7.2.1",
+    "moment": "^2.18.1",
+    "x-ray": "^2.3.2"
+  }
+}

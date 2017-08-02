@@ -1,0 +1,6 @@
+{
+  "name": "comedy-festival-api",
+  "description": "Scrapes shows for the Comedy Festival",
+  "repository": "https://github.com/simonbs/comedy-festival-api",
+  "keywords": [ "comedy", "festival" ]
+}
